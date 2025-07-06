@@ -1,0 +1,1 @@
+This repository contains code and documentation for the project “Audience Engagement Pattern Analysis on YouTube Videos Using K-Means and DBSCAN Algorithms”. An interactive dashboard application was built using Streamlit to analyze and group videos from any YouTube playlist based on audience engagement patterns.
