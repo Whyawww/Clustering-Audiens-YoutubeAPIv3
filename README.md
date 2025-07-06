@@ -22,4 +22,4 @@ Audience engagement analysis on YouTube is often limited to surface metrics such
 Quantitative data (views, likes, comments) from Deddy Corbuzier's YouTube channel (as an initial case study) was collected through YouTube API v3. This data-driven segmentation model can be utilized by content creators for content personalization and by advertisers for more effective targeting.
 
 # Creator
-Wahyu Aji Nusantara
+[Wahyu Aji Nusantara](https://www.wahyuaji.cloud)
