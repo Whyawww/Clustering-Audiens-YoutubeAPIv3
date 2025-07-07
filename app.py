@@ -190,7 +190,7 @@ if st.sidebar.button("Analisis Playlist"):
         
         st.markdown(f"""
         Berdasarkan `engagement_rate` yang telah diskalakan:
-        - **Klaster Engagement Tinggi (Contoh: Cluster {int(highest_engagement_cluster)})**: Video di klaster ini, meskipun mungkin tidak selalu memiliki *views* tertinggi, namun mampu memancing *likes* dan *comments* yang sangat tinggi secara proporsional. Ini adalah konten yang paling resonan dengan audiens inti Anda.
+        - **Klaster Engagement Tinggi (Cluster {int(highest_engagement_cluster)})**: Video di klaster ini, meskipun mungkin tidak selalu memiliki *views* tertinggi, namun mampu memancing *likes* dan *comments* yang sangat tinggi secara proporsional. Ini adalah konten yang paling resonan dengan audiens inti Anda.
         - **Klaster Lainnya**: Perlu dianalisis lebih lanjut apakah klaster lain menunjukkan pola 'views tinggi tapi engagement rendah' (populer tapi pasif) atau 'views rendah dan engagement rendah' (kurang diminati).
         """)
         
